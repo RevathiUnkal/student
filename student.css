@@ -1,0 +1,15 @@
+background-color{
+    color:red;
+    font-size:24;
+    font-family:arial;
+    text-align:center;
+    padding:20px;
+}
+body{
+    background-color:lightblue;
+    text-align:center;
+    padding:20px;
+    font-size:32;
+    font-family:arial;
+    
+}
